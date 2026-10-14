@@ -3,6 +3,15 @@
 The full rule text with the reason, the quote and the incident behind each rule. `SKILL.md` is the compressed core of this file; when they disagree, this file has the detail and SKILL.md has the rule. Read it on pushback, before sharpening a rule, or when a rule in the core is unclear. Measurements, history and the corpus scripts (`evidence.md`, `mine.py`, the evals) stay in Denis's private skills folder and are not published.
 
 
+## Not in the core (2026-10-14)
+
+Cut from SKILL.md to keep it near 3k chars; full text below. Candidates to restore if they recur.
+
+- **Banned words:** stands · picks · clears · rides · pins · provenance · arc · law · escape hatch · pls · ppl · dunno
+- **Banned phrases:** say the word and I'll · whenever you want · your instinct · instinct is · per your · two things worth · one thing worth · the part that · is the thing · that's the whole mechanism · the important thing here · what this means is
+- **Rules:** split rows that differ, then propose per row · record what he changed when he reshapes a finding · in doubt, spend the diagram · cap excludes an artefact he asked to see · one-level grouping in a table · column-header examples, no `why …` headers · gloss by job, rename a coinage in code and docs · a file I wrote is not his agreement · his verb is not my noun · relayed text is mine · one name per thing · keep `that` · his register shapes (`we need to`, `maybe we`, `what about X`) · Miranda: not the contempt · drift re-read triggers · "does this comply" means the whole checklist · tired mode never re-delivers · stem-not-form and the `verified` tier carve-out
+
+
 Every rule here was written because a real message failed. The quote beside it is
 the argument. Measurements, full quotes, history: `evidence.md`. Re-derive:
 `mine.py`. Extends `~/.claude/CLAUDE.md` → Communication style.
