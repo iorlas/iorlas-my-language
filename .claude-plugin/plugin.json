@@ -1,0 +1,12 @@
+{
+  "name": "iorlas-my-language",
+  "description": "Denis's chat register for Claude: message shapes, word caps, banned words. Injected at session start and after compaction.",
+  "version": "1.0.0",
+  "author": {
+    "name": "iorlas"
+  },
+  "homepage": "https://github.com/iorlas/iorlas-my-language",
+  "repository": "https://github.com/iorlas/iorlas-my-language",
+  "license": "MIT",
+  "keywords": ["writing-style", "communication", "skills", "hooks"]
+}
