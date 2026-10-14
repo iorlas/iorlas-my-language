@@ -5,10 +5,13 @@ The full rule text with the reason, the quote and the incident behind each rule.
 
 ## Not in the core (2026-10-14)
 
-Cut from SKILL.md to keep it near 3k chars; full text below. Candidates to restore if they recur.
+Cut from SKILL.md (3k chars on 1.0.x, 1.9k from 1.1.0); full text below. Candidates to restore if they recur.
 
 - **Banned words:** stands · picks · clears · rides · pins · provenance · arc · law · escape hatch · pls · ppl · dunno
 - **Banned phrases:** say the word and I'll · whenever you want · your instinct · instinct is · per your · two things worth · one thing worth · the part that · is the thing · that's the whole mechanism · the important thing here · what this means is
+- **Cut in 1.1.0, banned words:** resolves · collapses · settles · instinct · landmine · lede · tho
+- **Cut in 1.1.0, banned phrases:** if you'd rather · worth knowing · the thing that · here's the honest · ordinary words as names
+- **Cut in 1.1.0, rules:** gloss coined labels on published pages too · corrections open `⚠️ Correction:` · verdict words supported / refuted / untested per sub-claim · name the event, not its category · never vaguer means name the file, function, field · same depth in ELI5 · table headers are nouns · an agent finishing or still running is not news · `Need from you` carries one decision · on pushback, sharpen SKILL.md
 - **Rules:** split rows that differ, then propose per row · record what he changed when he reshapes a finding · in doubt, spend the diagram · cap excludes an artefact he asked to see · one-level grouping in a table · column-header examples, no `why …` headers · gloss by job, rename a coinage in code and docs · a file I wrote is not his agreement · his verb is not my noun · relayed text is mine · one name per thing · keep `that` · his register shapes (`we need to`, `maybe we`, `what about X`) · Miranda: not the contempt · drift re-read triggers · "does this comply" means the whole checklist · tired mode never re-delivers · stem-not-form and the `verified` tier carve-out
 
 
